@@ -1,0 +1,43 @@
+body {
+	width:1200px;
+	background: #849d8f url("../img/icecream1.png") no-repeat;
+
+}
+
+.slider-photo1 {
+background: #8996a6 url("../img/icecream2.png") no-repeat;
+}
+
+.slider-proto2{
+background: #9d8b84 url("../img/icecream3.png") no-repeat;
+}
+.container {
+	width: 1163px;
+	margin:0 auto;
+}
+
+.logo {
+	display: inline-block;
+	width: 171px;
+	height: 77px;
+}
+ 
+.navigation{
+	display: inline-block;
+	
+}
+
+.navigation li {
+	display: inline-block;
+	list-style: none;
+	font-family: "Roboto Bold",Arial,sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 24px;
+	text-decoration: underline;
+}
+
+.navigation li a{
+	color: #ffffff;
+}
+
